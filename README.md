@@ -1,4 +1,4 @@
-![Andrew's GitHub Banner](./images/computer-illustration.png)
+<img src="https://raw.githubusercontent.com/AndrewLaganaro/AndrewLaganaro/main/images/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Andrew">
 <p align="left">
   Olá, meu nome é <b>André</b>!
   
