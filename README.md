@@ -1,3 +1,4 @@
+![Andrew's GitHub Banner](./images/computer-illustration.png)
 <p align="left">
   Olá, meu nome é <b>André</b>!
   
