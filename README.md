@@ -43,13 +43,9 @@
   ![Gmail](https://img.shields.io/badge/Gmail-informational?style=plastic&logo=gmail&logoColor=white&color=D14836)
   
 ### ⛩📘 Languages I speak
-  ![English](https://img.shields.io/badge/English-Fluent-blue)
+  ![English](https://img.shields.io/badge/English-Fluent-blue) ![German](https://img.shields.io/badge/German-Basics-orange)
   <br>
-  ![German](https://img.shields.io/badge/German-Basics-orange)
-  <br>
-  ![Spanish](https://img.shields.io/badge/Spanish-Intermediate-red)
-  <br>
-  ![Brazilian](https://img.shields.io/badge/Brazilian-Native-green)
+  ![Spanish](https://img.shields.io/badge/Spanish-Intermediate-red) ![Brazilian](https://img.shields.io/badge/Brazilian-Native-green)
 
   <br>
 <p align="center">
