@@ -44,11 +44,11 @@
   
 ### ⛩📘 Languages I speak
   ![English](https://img.shields.io/badge/English-Fluent-blue)
-  
+  <br>
   ![German](https://img.shields.io/badge/German-Basics-orange)
-  
+  <br>
   ![Spanish](https://img.shields.io/badge/Spanish-Intermediate-red)
-  
+  <br>
   ![Brazilian](https://img.shields.io/badge/Brazilian-Native-green)
 
   <br>
