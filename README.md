@@ -8,7 +8,7 @@
   I am available for freelancing/job opportunities at the moment, if you need just get in touch with me! 
 </p>
 
-<b>Em Português:</b> <kbd>[<img title="Brazilian" alt="Brazilian" src="images/br.jpg" width="22">](translations/README.br.md)</kbd>
+<b>Em Português:</b> <kbd>[<img title="Brazilian" alt="Brazilian" src="images/br.jpg" width="18">](translations/README.br.md)</kbd>
 
 ### 🖥 Coding languages
 
