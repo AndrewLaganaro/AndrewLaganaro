@@ -41,6 +41,12 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-informational?style=plastic&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/andrewlaganaro/)
   ![Telegram](https://img.shields.io/badge/Telegram-informational?style=plastic&logo=telegram&logoColor=white&color=2CA5E0)
   ![Gmail](https://img.shields.io/badge/Gmail-informational?style=plastic&logo=gmail&logoColor=white&color=D14836)
+  
+### ⛩📘 Idiomas
+  ![English](https://img.shields.io/badge/Inglês-Fluente-blue?/?style=flat) ![German](https://img.shields.io/badge/Alemão-Iniciante-orange?/?style=flat)
+  <br>
+  ![Spanish](https://img.shields.io/badge/Espanhol-Intermediário-red)
+
   <br>
 <p align="center">
   ▶<kbd><a href="https://github.com/AndrewLaganaro" alt="American">
