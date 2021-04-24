@@ -1,4 +1,8 @@
 <img src="https://raw.githubusercontent.com/AndrewLaganaro/AndrewLaganaro/main/images/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Andrew">
+<p align="right">
+  <kbd><a href="https://github.com/AndrewLaganaro/AndrewLaganaro/blob/main/translations/README.br.md" alt="Brazilian">
+  <img title="Brazilian" alt="Brazilian" src="images/br.jpg" width="18"></a></kbd>
+</p>
 <p align="left">
   Hello, my name is <b>André</b>!
   
@@ -6,11 +10,6 @@
   I am currently improving my skills in <b>Python</b>, <b>MySQL</b> and <b>JavaScrip </b>!
 
   I am available for freelancing/job opportunities at the moment, if you need just get in touch with me! 
-</p>
-
-<p align="right">
-  <kbd><a href="https://github.com/AndrewLaganaro/AndrewLaganaro/blob/main/translations/README.br.md" alt="Brazilian">
-  <img title="Brazilian" alt="Brazilian" src="images/br.jpg" width="18"></a></kbd>
 </p>
 
 ### 🖥 Coding languages
