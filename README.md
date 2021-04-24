@@ -1,14 +1,18 @@
 <img src="https://raw.githubusercontent.com/AndrewLaganaro/AndrewLaganaro/main/images/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Andrew">
 <p align="left">
-  Olá, meu nome é <b>André</b>!
+  Hello, my name is <b>André</b>!
   
-  Sou desenvolvedor em <b>Ciência de Dados</b> e <b>Análise de Dados</b>. 
-  Atualmente estou aprimorando minhas habilidades em <b>Python</b>, <b>MySQL</b> e <b>JavaScript</b>!
-  
-  Estou disponível para freelas/trabalho no momento, caso precise basta entrar em contato!
+  I'm a <b>Data Science</b> and <b>Data Analysis</b> developer.
+  I am currently improving my skills in <b>Python</b>, <b>MySQL</b> and <b>JavaScrip </b>!
+
+  I am available for freelancing/job opportunities at the moment, if you need just get in touch with me! 
 </p>
 
-### 🖥 Linguagens
+<p align="right">
+  <b>Em Português:</b> <kbd>[<img title="Brazilian" alt="Brazilian" src="images/br.png" width="22">](translations/README.br.md)</kbd>
+</p>
+
+### 🖥 Coding languages
 
   ![](https://img.shields.io/badge/Python-informational?style=plastic&logo=Python&logoColor=white&color=blue)
   ![](https://img.shields.io/badge/R-informational?style=plastic&logo=R&logoColor=white&color=gray)
@@ -17,7 +21,7 @@
   ![](https://img.shields.io/badge/MongoDB-informational?style=plastic&logo=MongoDB&logoColor=white&color=green)
   ![](https://img.shields.io/badge/MySQL-informational?style=plastic&logo=MySQL&logoColor=white&color=orange)
 
-### ⚙ Ferramentas
+### ⚙ Tools
 
   ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?&style=plastic&logo=visual-studio-code&logoColor=white)
   ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?&style=plastic&logo=Jupyter&logoColor=white)
@@ -36,11 +40,11 @@
   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?&style=plastic&logo=figma&logoColor=white)
   ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?&style=plastic&logo=blender&logoColor=white)
 
-### 📫 Contato
+### 📫 Get in touch
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-informational?style=plastic&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/andrewlaganaro/)
   ![Telegram](https://img.shields.io/badge/Telegram-informational?style=plastic&logo=telegram&logoColor=white&color=2CA5E0)
   ![Gmail](https://img.shields.io/badge/Gmail-informational?style=plastic&logo=gmail&logoColor=white&color=D14836)
   <br>
   
-<p align="center"><font size="+3"><b> 💻 Dê uma olhada nos meus Repos ⬇️ </b></font></p>
+<p align="center"><font size="+3"><b> 💻 Take a look at my Repos ⬇️ </b></font></p>
