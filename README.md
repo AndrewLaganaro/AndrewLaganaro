@@ -7,9 +7,8 @@
 
   I am available for freelancing/job opportunities at the moment, if you need just get in touch with me! 
 </p>
-
-<a href="#" alt="Brazilian">
-<kbd><img title="Brazilian" alt="Brazilian" src="images/br.jpg" width="18" link=https://github.com/AndrewLaganaro/AndrewLaganaro/blob/main/translations/README.br.md></kbd></a>
+<kbd><a href="#" alt="Brazilian">
+<img title="Brazilian" alt="Brazilian" src="images/br.jpg" width="18" link=https://github.com/AndrewLaganaro/AndrewLaganaro/blob/main/translations/README.br.md></a></kbd>
 
 ### 🖥 Coding languages
 
