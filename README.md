@@ -41,6 +41,13 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-informational?style=plastic&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/andrewlaganaro/)
   ![Telegram](https://img.shields.io/badge/Telegram-informational?style=plastic&logo=telegram&logoColor=white&color=2CA5E0)
   ![Gmail](https://img.shields.io/badge/Gmail-informational?style=plastic&logo=gmail&logoColor=white&color=D14836)
+  
+### ⛩📘 Languages I speak
+  ![English](https://img.shields.io/badge/English-Fluent-blue)
+  ![German](https://img.shields.io/badge/German-Basics-orange)
+  ![Spanish](https://img.shields.io/badge/Spanish-Intermediate-red)
+  ![Brazilian](https://img.shields.io/badge/Brazilian%20portuguese-Native-green)
+
   <br>
 <p align="center">
   ▶<kbd><a href="https://github.com/AndrewLaganaro/AndrewLaganaro/blob/main/translations/README.br.md" alt="Brazilian">
