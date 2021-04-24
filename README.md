@@ -1,4 +1,5 @@
 <img src="https://raw.githubusercontent.com/AndrewLaganaro/AndrewLaganaro/main/images/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Andrew">
+![Position](https://img.shields.io/badge/Data%20Scientist-Maker-blue)
 <p align="left">
   Hello, my name is <b>André</b>, but you can also call me <b>Andrew</b>!
   
@@ -37,7 +38,8 @@
   ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?&/?style=flat&logo=blender&logoColor=white)
 
 ### 📫 Get in touch
-
+  ![SP](https://img.shields.io/badge/Brazil-São%20Paulo-blue)
+  <br>
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-informational?/?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/andrewlaganaro/)
   ![Telegram](https://img.shields.io/badge/Telegram-informational?/?style=flat&logo=telegram&logoColor=white&color=2CA5E0)
   ![Gmail](https://img.shields.io/badge/Gmail-informational?/?style=flat&logo=gmail&logoColor=white&color=D14836)
