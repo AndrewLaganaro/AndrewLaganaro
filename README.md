@@ -2,7 +2,7 @@
 
 ![Position](https://img.shields.io/badge/Data%20Scientist-Maker-blue)
 <p align="left">
-  Hello, my name is <b>André</b>, but you can also call me <b>Andrew</b>!
+  Hello there! My name is <b>André</b>, but you can call me <b>Andrew</b>!
   
   I'm a <b>Data Science</b> and <b>Data Analysis</b> developer.
   I'm currently improving my skills in <b>Python</b>, <b>MySQL</b> and <b>JavaScript</b>!
