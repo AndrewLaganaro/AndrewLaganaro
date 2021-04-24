@@ -44,6 +44,6 @@
   <br>
 <p align="center">
   <kbd><a href="https://github.com/AndrewLaganaro" alt="American">
-  <img title="American" alt="American" src="images/usa.jpg" width="18"></a></kbd>
+  <img title="American" alt="American" src="../images/usa.jpg" width="18"></a></kbd>
 </p>
 <p align="center"><font size="+3"><b> 💻 Dê uma olhada nos meus Repos ⬇️ </b></font></p>
