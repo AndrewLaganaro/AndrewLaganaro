@@ -8,8 +8,6 @@
   Estou disponível para freelas/oportunidades de trabalho no momento, caso precise basta entrar em contato!
 </p>
 
-  <b>In English:</b> <kbd>[<img title="American" alt="American" src="../images/usa.png" width="22">](https://github.com/AndrewLaganaro/)</kbd>
-
 ### 🖥 Linguagens
 
 ![](https://img.shields.io/badge/Python-informational?style=plastic&logo=Python&logoColor=white&color=blue)
@@ -44,5 +42,8 @@
   ![Telegram](https://img.shields.io/badge/Telegram-informational?style=plastic&logo=telegram&logoColor=white&color=2CA5E0)
   ![Gmail](https://img.shields.io/badge/Gmail-informational?style=plastic&logo=gmail&logoColor=white&color=D14836)
   <br>
-  
+<p align="center">
+  <kbd><a href="https://github.com/AndrewLaganaro" alt="American">
+  <img title="American" alt="American" src="images/usa.jpg" width="18"></a></kbd>
+</p>
 <p align="center"><font size="+3"><b> 💻 Dê uma olhada nos meus Repos ⬇️ </b></font></p>
