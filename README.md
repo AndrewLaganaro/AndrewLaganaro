@@ -8,7 +8,7 @@
   Currently available for freelancing/job opportunities, if you need just get in touch with me! 
 </p>
 
-### 🖥 Coding languages
+### 🖥 Coding
 
   ![](https://img.shields.io/badge/Python-informational?/?style=flat&logo=Python&logoColor=white&color=blue)
   ![](https://img.shields.io/badge/R-informational?/?style=flat&logo=R&logoColor=white&color=gray)
