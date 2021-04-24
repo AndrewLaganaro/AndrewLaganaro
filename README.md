@@ -1,8 +1,4 @@
 <img src="https://raw.githubusercontent.com/AndrewLaganaro/AndrewLaganaro/main/images/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Andrew">
-<p align="right">
-  <kbd><a href="https://github.com/AndrewLaganaro/AndrewLaganaro/blob/main/translations/README.br.md" alt="Brazilian">
-  <img title="Brazilian" alt="Brazilian" src="images/br.jpg" width="18"></a></kbd>
-</p>
 <p align="left">
   Hello, my name is <b>André</b>!
   
@@ -46,5 +42,8 @@
   ![Telegram](https://img.shields.io/badge/Telegram-informational?style=plastic&logo=telegram&logoColor=white&color=2CA5E0)
   ![Gmail](https://img.shields.io/badge/Gmail-informational?style=plastic&logo=gmail&logoColor=white&color=D14836)
   <br>
-  
+<p align="center">
+  <kbd><a href="https://github.com/AndrewLaganaro/AndrewLaganaro/blob/main/translations/README.br.md" alt="Brazilian">
+  <img title="Brazilian" alt="Brazilian" src="images/br.jpg" width="18"></a></kbd>
+</p>  
 <p align="center"><font size="+3"><b> 💻 Take a look at my Repos ⬇️ </b></font></p>
