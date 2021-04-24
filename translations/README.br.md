@@ -39,8 +39,8 @@
 ### 📫 Contato
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-informational?style=plastic&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/andrewlaganaro/)
-  ![Telegram](https://img.shields.io/badge/Telegram-informational?style=plastic&logo=telegram&logoColor=white&color=2CA5E0)
-  ![Gmail](https://img.shields.io/badge/Gmail-informational?style=plastic&logo=gmail&logoColor=white&color=D14836)
+  [![Telegram](https://img.shields.io/badge/Telegram-informational?/?style=flat&logo=telegram&logoColor=white&color=2CA5E0)](https://t.me/AndrewLaganaro)
+  [![Gmail](https://img.shields.io/badge/Gmail-informational?/?style=flat&logo=gmail&logoColor=white&color=D14836)](mailto:andrew.laganaro.dev@gmail.com?subject=[GitHub])
   <br>
   [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?&style=plastic&logo=Medium&logoColor=white)](https://medium.com/@AndrewLaganaro)
   [![Kaggle](https://img.shields.io/badge/-Kaggle-blue?style=plastic)](https://www.kaggle.com/andrewlaganaro)
