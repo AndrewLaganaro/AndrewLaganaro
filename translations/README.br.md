@@ -9,7 +9,7 @@
 </p>
 
 <p align="right">
-  <b>In English:</b> <kbd>[<img title="American" alt="American" src="images/usa.png" width="22">](../README.md)</kbd>
+  <b>In English:</b> <kbd>[<img title="American" alt="American" src="../images/usa.png" width="22">](../README.md)</kbd>
 </p>
 
 ### 🖥 Linguagens
