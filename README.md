@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/AndrewLaganaro/AndrewLaganaro/main/images/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Andrew">
 <p align="left">
-  Hello, my name is <b>André</b>!
+  Hello, my name is <b>André</b>, but you can also call me <b>Andrew</b>!
   
   I'm a <b>Data Science</b> and <b>Data Analysis</b> developer.
   I'm currently improving my skills in <b>Python</b>, <b>MySQL</b> and <b>JavaScript</b>!
