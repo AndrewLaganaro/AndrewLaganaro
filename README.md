@@ -43,7 +43,7 @@
   ![Gmail](https://img.shields.io/badge/Gmail-informational?style=plastic&logo=gmail&logoColor=white&color=D14836)
   <br>
 <p align="center">
-  <kbd><a href="https://github.com/AndrewLaganaro/AndrewLaganaro/blob/main/translations/README.br.md" alt="Brazilian">
-  <img title="Brazilian" alt="Brazilian" src="images/br.jpg" width="18"></a></kbd>
+  ▶<kbd><a href="https://github.com/AndrewLaganaro/AndrewLaganaro/blob/main/translations/README.br.md" alt="Brazilian">
+  <img title="Brazilian" alt="Brazilian" src="images/br.jpg" width="18"></a></kbd>◀
 </p>  
 <p align="center"><font size="+3"><b> 💻 Take a look at my Repos ⬇️ </b></font></p>
