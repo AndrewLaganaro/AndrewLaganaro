@@ -36,7 +36,7 @@
   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?&style=plastic&logo=figma&logoColor=white)
   ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?&style=plastic&logo=blender&logoColor=white)
   
-### 📫 Contato
+### 📫 Entre em contato
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-informational?style=plastic&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/andrewlaganaro/)
   ![Telegram](https://img.shields.io/badge/Telegram-informational?style=plastic&logo=telegram&logoColor=white&color=2CA5E0)
