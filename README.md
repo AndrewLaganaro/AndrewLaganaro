@@ -44,9 +44,12 @@
   
 ### ⛩📘 Languages I speak
   ![English](https://img.shields.io/badge/English-Fluent-blue)
+  
   ![German](https://img.shields.io/badge/German-Basics-orange)
+  
   ![Spanish](https://img.shields.io/badge/Spanish-Intermediate-red)
-  ![Brazilian](https://img.shields.io/badge/Brazilian%20portuguese-Native-green)
+  
+  ![Brazilian](https://img.shields.io/badge/Brazilian-Native-green)
 
   <br>
 <p align="center">
