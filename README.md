@@ -9,7 +9,7 @@
 </p>
 
 <p align="right">
-  <b>Em Português:</b> <kbd>[<img title="Brazilian" alt="Brazilian" src="images/br.png" width="22">](translations/README.br.md)</kbd>
+  <b>Em Português:</b> <kbd>[<img title="Brazilian" alt="Brazilian" src="images/br.jpg" width="22">](translations/README.br.md)</kbd>
 </p>
 
 ### 🖥 Coding languages
