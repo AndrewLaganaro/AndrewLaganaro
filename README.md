@@ -9,7 +9,7 @@
 </p>
 
 <a href="#" alt="Brazilian">
-<kbd><img title="Brazilian" alt="Brazilian" src="images/br.jpg" width=18&link=https://github.com/AndrewLaganaro/AndrewLaganaro/blob/main/translations/README.br.md></kbd></a>
+<kbd><img title="Brazilian" alt="Brazilian" src="images/br.jpg" width="18" link=https://github.com/AndrewLaganaro/AndrewLaganaro/blob/main/translations/README.br.md></kbd></a>
 
 ### 🖥 Coding languages
 
