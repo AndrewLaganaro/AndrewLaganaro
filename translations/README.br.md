@@ -8,9 +8,7 @@
   Estou disponível para freelas/oportunidades de trabalho no momento, caso precise basta entrar em contato!
 </p>
 
-<p align="right">
   <b>In English:</b> <kbd>[<img title="American" alt="American" src="../images/usa.png" width="22">](../README.md)</kbd>
-</p>
 
 ### 🖥 Linguagens
 
