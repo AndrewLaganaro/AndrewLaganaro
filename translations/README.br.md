@@ -43,7 +43,7 @@
   ![Gmail](https://img.shields.io/badge/Gmail-informational?style=plastic&logo=gmail&logoColor=white&color=D14836)
   <br>
 <p align="center">
-  <kbd><a href="https://github.com/AndrewLaganaro" alt="American">
-  <img title="American" alt="American" src="../images/usa.jpg" width="18"></a></kbd>
+  ▶<kbd><a href="https://github.com/AndrewLaganaro" alt="American">
+  <img title="American" alt="American" src="../images/usa.png" width="18"></a></kbd>◀
 </p>
 <p align="center"><font size="+3"><b> 💻 Dê uma olhada nos meus Repos ⬇️ </b></font></p>
