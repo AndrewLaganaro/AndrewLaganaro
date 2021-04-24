@@ -3,9 +3,9 @@
   Hello, my name is <b>André</b>!
   
   I'm a <b>Data Science</b> and <b>Data Analysis</b> developer.
-  I am currently improving my skills in <b>Python</b>, <b>MySQL</b> and <b>JavaScript</b>!
+  I'm currently improving my skills in <b>Python</b>, <b>MySQL</b> and <b>JavaScript</b>!
 
-  I am available for freelancing/job opportunities at the moment, if you need just get in touch with me! 
+  Currently available for freelancing/job opportunities, if you need just get in touch with me! 
 </p>
 
 ### 🖥 Coding languages
