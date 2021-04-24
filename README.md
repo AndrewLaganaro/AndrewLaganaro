@@ -1,4 +1,5 @@
 <img src="https://raw.githubusercontent.com/AndrewLaganaro/AndrewLaganaro/main/images/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Andrew">
+
 ![Position](https://img.shields.io/badge/Data%20Scientist-Maker-blue)
 <p align="left">
   Hello, my name is <b>André</b>, but you can also call me <b>Andrew</b>!
