@@ -58,4 +58,4 @@
   ▶<kbd><a href="https://github.com/AndrewLaganaro/AndrewLaganaro/blob/main/translations/README.br.md" alt="Brazilian">
   <img title="Brazilian" alt="Brazilian" src="images/br.jpg" width="18"></a></kbd>◀
 </p>  
-<p align="center"><h3><b> 💻 Take a look at my Repos ⬇️ </b></h3></p>
+<p align="center"><font size="+3"><b> 💻 Take a look at my Repos ⬇️ </b></font></p>
