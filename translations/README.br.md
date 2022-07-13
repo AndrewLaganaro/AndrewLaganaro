@@ -1,21 +1,22 @@
 <img src="https://raw.githubusercontent.com/AndrewLaganaro/AndrewLaganaro/main/images/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Andrew">
+
+![Position](https://img.shields.io/badge/Data%20Scientist-Maker-blue) [![Portfolio](https://img.shields.io/badge/-Portfolio-blue)](andrewcode.herokuapp.com)
 <p align="left">
   Olá, meu nome é <b>André</b>!
   
   Sou desenvolvedor em <b>Ciência de Dados</b> e <b>Análise de Dados</b>. 
-  Atualmente estou aprimorando minhas habilidades em <b>Python</b>, <b>MySQL</b> e <b>JavaScript</b>!
+  Fascinado em resolver problemas com dados, busco me aprimorar em Python, análise de dados, SQL e algoritmos para resolver problemas de regressão, classificação e agrupamento de dados aliado ao deploy com API pra impactar decisões e gerar resultados.
   
   Estou disponível para freelas/oportunidades de trabalho no momento, caso precise basta entrar em contato!
 </p>
 
 ### 🖥 Linguagens
-
-![](https://img.shields.io/badge/Python-informational?style=plastic&logo=Python&logoColor=white&color=blue)
-![](https://img.shields.io/badge/R-informational?style=plastic&logo=R&logoColor=white&color=gray)
-![](https://img.shields.io/badge/C++-informational?style=plastic&logo=c%2B%2B&logoColor=white&color=0D76A8)
-![](https://img.shields.io/badge/JavaScript-informational?style=plastic&logo=JavaScript&logoColor=white&color=yellow)
-![](https://img.shields.io/badge/MongoDB-informational?style=plastic&logo=MongoDB&logoColor=white&color=green)
-![](https://img.shields.io/badge/MySQL-informational?style=plastic&logo=MySQL&logoColor=white&color=orange)
+  ⬇️ Dá uma olhada no meu Portfólio ⬇️
+  [![Portfolio](https://img.shields.io/badge/-Portfolio-blue)](andrewcode.herokuapp.com)
+  
+  ![Python](https://img.shields.io/badge/Python-informational?/?style=flat&logo=Python&logoColor=white&color=blue)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-informational?/?style=flat&logo=MongoDB&logoColor=white&color=green)
+  ![MySQL](https://img.shields.io/badge/MySQL-informational?/?style=flat&logo=MySQL&logoColor=white&color=orange)
 
 ### ⚙ Ferramentas
 
@@ -31,7 +32,7 @@
   
 ### 🧪 Maker
 
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white)
+  ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white)
   ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=plastic&logo=Raspberry-Pi)
   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?&style=plastic&logo=figma&logoColor=white)
   ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?&style=plastic&logo=blender&logoColor=white)
@@ -55,4 +56,4 @@
   ▶<kbd><a href="https://github.com/AndrewLaganaro" alt="American">
   <img title="American" alt="American" src="../images/usa.png" width="20"></a></kbd>◀
 </p>
-<p align="center"><font size="+3"><b> 💻 Dê uma olhada nos meus Repos ⬇️ </b></font></p>
+<p align="center"><font size="+3"><b> 💻 Dá uma olhada nos meus Projetos ⬇️ </b></font></p>
