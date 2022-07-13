@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/AndrewLaganaro/AndrewLaganaro/main/images/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Andrew">
 
-![Position](https://img.shields.io/badge/Data%20Scientist-Maker-blue) [![Portfolio](https://img.shields.io/badge/Projects-Portfolio-blue)](andrewcode.herokuapp.com)
+![Position](https://img.shields.io/badge/Data%20Scientist-Maker-blue) [![Portfolio](https://img.shields.io/badge/Projects-Portfolio-blue)](https://andrewcode.herokuapp.com)
 <p align="left">
   Olá, meu nome é <b>André</b>!
   
@@ -11,11 +11,18 @@
   
 ⬇️ Dá uma olhada no meu Portfólio ⬇️
   
-  [![Portfolio](https://img.shields.io/badge/Projects-Portfolio-blue)](andrewcode.herokuapp.com)
+  [![Portfolio](https://img.shields.io/badge/Projects-Portfolio-blue)](https://andrewcode.herokuapp.com)
 </p>
 
-### 🖥 Linguagens
+### 🛠 Projetos
 
+  [![Store Sales Analysis](https://img.shields.io/badge/Projects-Store%20Sales%20Analysis-orange)](https://github.com/AndrewLaganaro/Store_Sales_Analysis)
+  
+  [![Data Science Framework](https://img.shields.io/badge/Projects-Data%20Science%20Framework-blue)](https://github.com/AndrewLaganaro/Data_Science_Framework)
+  
+  [![Data Science Classes](https://img.shields.io/badge/Projects-Data%20Science%20Classes-red)](https://github.com/AndrewLaganaro/Data_Science_Classes)
+
+### 🖥 Linguagens
   
   ![Python](https://img.shields.io/badge/Python-informational?/?style=flat&logo=Python&logoColor=white&color=blue)
   ![MongoDB](https://img.shields.io/badge/MongoDB-informational?/?style=flat&logo=MongoDB&logoColor=white&color=green)
