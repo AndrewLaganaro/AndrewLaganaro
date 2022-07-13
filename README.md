@@ -1,23 +1,24 @@
 <img src="https://raw.githubusercontent.com/AndrewLaganaro/AndrewLaganaro/main/images/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Andrew">
 
-![Position](https://img.shields.io/badge/Data%20Scientist-Maker-blue)
+![Position](https://img.shields.io/badge/Data%20Scientist-Maker-blue) [![Portfolio](https://img.shields.io/badge/-Portfolio-blue)](andrewcode.herokuapp.com)
 <p align="left">
   Hello there! My name is <b>André</b>, but you can call me <b>Andrew</b>!
   
   I'm a <b>Data Science</b> and <b>Data Analysis</b> developer.
-  I'm currently improving my skills in <b>Python</b>, <b>MySQL</b> and <b>JavaScript</b>!
+  
+  Fascinated in solving problems with data, I seek to improve myself in Python, data analysis, SQL and algorithms to solve problems of regression, classification and data grouping combined with API deployment to impact decisions and generate results.
 
   Currently available for freelancing/job opportunities, if you need just get in touch with me! 
 </p>
 
 ### 🖥 Coding
-
-  ![](https://img.shields.io/badge/Python-informational?/?style=flat&logo=Python&logoColor=white&color=blue)
-  ![](https://img.shields.io/badge/R-informational?/?style=flat&logo=R&logoColor=white&color=gray)
-  ![](https://img.shields.io/badge/C++-informational?/?style=flat&logo=c%2B%2B&logoColor=white&color=0D76A8)
-  ![](https://img.shields.io/badge/JavaScript-informational?/?style=flat&logo=JavaScript&logoColor=white&color=yellow)
-  ![](https://img.shields.io/badge/MongoDB-informational?/?style=flat&logo=MongoDB&logoColor=white&color=green)
-  ![](https://img.shields.io/badge/MySQL-informational?/?style=flat&logo=MySQL&logoColor=white&color=orange)
+  Check my Portfolio website:
+  
+  [![Portfolio](https://img.shields.io/badge/-Portfolio-blue)](andrewcode.herokuapp.com)
+  
+  ![Python](https://img.shields.io/badge/Python-informational?/?style=flat&logo=Python&logoColor=white&color=blue)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-informational?/?style=flat&logo=MongoDB&logoColor=white&color=green)
+  ![MySQL](https://img.shields.io/badge/MySQL-informational?/?style=flat&logo=MySQL&logoColor=white&color=orange)
 
 ### ⚙ Tools
 
@@ -35,7 +36,6 @@
 
   ![Arduino](https://img.shields.io/badge/-Arduino-00979D?/?style=flat&logo=Arduino&logoColor=white)
   ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?/?style=flat&logo=Raspberry-Pi)
-  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?&/?style=flat&logo=figma&logoColor=white)
   ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?&/?style=flat&logo=blender&logoColor=white)
 
 ### 📫 Get in touch
