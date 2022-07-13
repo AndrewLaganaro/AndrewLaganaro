@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/AndrewLaganaro/AndrewLaganaro/main/images/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Andrew">
 
-![Position](https://img.shields.io/badge/Data%20Scientist-Maker-blue) [![Portfolio](https://img.shields.io/badge/-Portfolio-blue)](andrewcode.herokuapp.com)
+![Position](https://img.shields.io/badge/Data%20Scientist-Maker-blue) [![Portfolio](https://img.shields.io/badge/Projects-Portfolio-blue)](andrewcode.herokuapp.com)
 <p align="left">
   Olá, meu nome é <b>André</b>!
   
@@ -8,12 +8,14 @@
   Fascinado em resolver problemas com dados, busco me aprimorar em Python, análise de dados, SQL e algoritmos para resolver problemas de regressão, classificação e agrupamento de dados aliado ao deploy com API pra impactar decisões e gerar resultados.
   
   Estou disponível para freelas/oportunidades de trabalho no momento, caso precise basta entrar em contato!
+  
+⬇️ Dá uma olhada no meu Portfólio ⬇️
+  
+  [![Portfolio](https://img.shields.io/badge/Projects-Portfolio-blue)](andrewcode.herokuapp.com)
 </p>
 
 ### 🖥 Linguagens
-  ⬇️ Dá uma olhada no meu Portfólio ⬇️
-  
-  [![Portfolio](https://img.shields.io/badge/-Portfolio-blue)](andrewcode.herokuapp.com)
+
   
   ![Python](https://img.shields.io/badge/Python-informational?/?style=flat&logo=Python&logoColor=white&color=blue)
   ![MongoDB](https://img.shields.io/badge/MongoDB-informational?/?style=flat&logo=MongoDB&logoColor=white&color=green)
