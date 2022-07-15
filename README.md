@@ -64,6 +64,6 @@
   <br>
 <p align="center">
   ▶<kbd><a href="https://github.com/AndrewLaganaro/AndrewLaganaro/blob/main/translations/README.en.md" alt="American">
-  <img title="American" alt="American" src="../images/usa.png" width="20"></a></kbd>◀
+  <img title="American" alt="American" src="images/usa.png" width="20"></a></kbd>◀
 </p>
 <p align="center"><font size="+3"><b> 💻 Dá uma olhada nos meus Projetos ⬇️ </b></font></p>
