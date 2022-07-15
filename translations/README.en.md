@@ -64,7 +64,7 @@
 
   <br>
 <p align="center">
-  ▶<kbd><a href="https://github.com/AndrewLaganaro/AndrewLaganaro/blob/main/translations/README.br.md" alt="Brazilian">
+  ▶<kbd><a href="https://github.com/AndrewLaganaro" alt="Brazilian">
   <img title="Brazilian" alt="Brazilian" src="images/br.jpg" width="20"></a></kbd>◀
 </p>  
 <p align="center"><font size="+3"><b> 💻 Take a look at my Projects ⬇️ </b></font></p>

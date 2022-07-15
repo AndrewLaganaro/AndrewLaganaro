@@ -22,7 +22,7 @@
   
   [![Data Science Classes](https://img.shields.io/badge/Projects-Data%20Science%20Classes-red)](https://github.com/AndrewLaganaro/Data_Science_Classes)
 
-### 🖥 Linguagens
+### 🖥 Linguagens e Tecnologias
   
   ![Python](https://img.shields.io/badge/Python-informational?/?style=flat&logo=Python&logoColor=white&color=blue)
   ![MongoDB](https://img.shields.io/badge/MongoDB-informational?/?style=flat&logo=MongoDB&logoColor=white&color=green)
@@ -63,7 +63,7 @@
 
   <br>
 <p align="center">
-  ▶<kbd><a href="https://github.com/AndrewLaganaro" alt="American">
+  ▶<kbd><a href="https://github.com/AndrewLaganaro/AndrewLaganaro/blob/main/translations/README.en.md" alt="American">
   <img title="American" alt="American" src="../images/usa.png" width="20"></a></kbd>◀
 </p>
 <p align="center"><font size="+3"><b> 💻 Dá uma olhada nos meus Projetos ⬇️ </b></font></p>
