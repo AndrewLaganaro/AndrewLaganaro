@@ -4,11 +4,34 @@
 <p align="left">
   Hello there! My name is <b>André</b>, but you can call me <b>Andrew</b>!
   
-  I'm a <b>Data Science</b> and <b>Data Analysis</b> developer.
-  
-  Fascinated in solving problems with data, I seek to improve myself in Python, data analysis, SQL and algorithms to solve problems of regression, classification and data grouping combined with API deployment to impact decisions and generate results.
+  Data scientist and python developer, in the last year the contact with the development and data science area added to the analytical side of the profession, bringing knowledge of the procedure of an end-to-end data analysis and prediction, from data collection to deployment, and skills of building machine learning models and immersion in the business problem addressed.
 
-  Currently available for freelancing/job opportunities, if you need just get in touch with me!
+The combination of these skills with courses and practical portfolio projects is what allows me to pursue a transition to science and data analysis.
+
+Main Portfolio projects:
+- Analysis and prediction of sales in a retail chain
+  - Implementation: Docker, FastAPI, Flask
+  - Algorithm: Regression
+  - Deploy: API REST, Bot on telegram
+  - Link: [![Store Sales Analysis](https://img.shields.io/badge/Projects-Store%20Sales%20Analysis-orange)](https://github.com/AndrewLaganaro/Store_Sales_Analysis)
+
+Tools:
+- English: Fluent, C2
+- Development: Python, SQL
+- Deploy: Docker, Airflow, AWS S3, API REST, Heroku, Databricks
+- Libraries: Scikit-learn, Pandas, Matplotlib, Flask, FastAPI, Streamlit
+- Database: MySQL, PostgreSQL
+- Versioning: Git, Github
+- Organization: Jira, Trello
+
+Portfolio website:
+https://andrewcode.herokuapp.com
+  
+Profile on Github:
+https://github.com/AndrewLaganaro
+  
+Linkedin profile:
+https://www.linkedin.com/in/andrewlaganaro/
   
   ⬇️ Take a look at my Portfolio ⬇️
   
